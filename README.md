@@ -5,8 +5,7 @@ This project showcases my academic achievements, certifications, workshops, prog
 
 ## 🚀 Live Demo
 
-🌐 Live Website:  
-[Achievements Portfolio](https://abdurrahmancce.github.io/Achievements/?utm_source=chatgpt.com)
+🌐 Live Website: https://github.com/abdurrahmancce/Achievements
 
 ---
 

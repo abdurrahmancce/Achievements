@@ -8,12 +8,3 @@ This project showcases my academic achievements, certifications, workshops, prog
 🌐 Live Website: https://github.com/abdurrahmancce/Achievements
 
 ---
-
-## 👨‍💻 Author
-
-# Abdur Rahman
-Computer & Communication Engineering Student
-
-Passionate about Web Development, Technology & Creative Projects.
-
----
